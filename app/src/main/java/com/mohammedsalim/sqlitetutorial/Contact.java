@@ -6,26 +6,26 @@ package com.mohammedsalim.sqlitetutorial;
 
 public class Contact {
 
-    int _id;
+    private int _id;
     private String _name;
     private String _phone_number;
 
     //Empty Constructor
-    public Contact() {
+    Contact() {
 
     }
 
     //Constructor
     public Contact(String name, String phone_number) {
-        _name = name;
-        _phone_number = phone_number;
+        name = name;
+        phone_number = phone_number;
     }
 
     //Constructor
     public Contact(int id, String name, String phone_number) {
-        _id = id;
-        _name = name;
-        _phone_number = phone_number;
+        id = id;
+        name = name;
+        phone_number = phone_number;
     }
 
     //Getting ID
