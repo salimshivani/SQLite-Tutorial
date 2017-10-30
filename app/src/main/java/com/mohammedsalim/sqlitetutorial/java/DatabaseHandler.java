@@ -1,4 +1,4 @@
-package com.mohammedsalim.sqlitetutorial;
+package com.mohammedsalim.sqlitetutorial.java;
 
 import android.content.ContentValues;
 import android.content.Context;

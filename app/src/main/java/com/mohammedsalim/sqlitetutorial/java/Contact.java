@@ -1,4 +1,4 @@
-package com.mohammedsalim.sqlitetutorial;
+package com.mohammedsalim.sqlitetutorial.java;
 
 /**
  * Created by SULTAN on 28-10-2017.
